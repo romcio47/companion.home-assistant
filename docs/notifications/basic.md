@@ -726,7 +726,7 @@ On iOS 15, you can set the interruption level of a notification, which has the f
 `time-sensitive` requires iOS/macOS-2021.12 or later.
 :::
 
-You can read more about these levels in the [Apple documentation](https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/notifications/).
+You can read more about these levels in the [Apple documentation](https://developer.apple.com/design/human-interface-guidelines/managing-notifications).
 
 By default, `time-sensitive` notifications will be read as an announcement. You can control what notifications are announced in the system Settings app > Notifications > Announce Notifications > Home Assistant.
 
